@@ -1,5 +1,5 @@
 # Introdução a Ciência da Computação I
-Esse diretório contêm programas feitos para a disciplina de Introdução a Ciência da Computação do ICMC/USP
+Esse diretório contêm programas em `c` feitos para a disciplina de Introdução a Ciência da Computação código 0221 da grade curricular obrigatória do curso de Ciências da Computação disponível no site 
 
 ## Sobre os projetos:
 
