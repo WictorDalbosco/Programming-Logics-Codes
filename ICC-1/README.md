@@ -1,5 +1,5 @@
 # Introdução a Ciência da Computação I
-Esse diretório contêm programas em `c` feitos para a disciplina de Introdução a Ciência da Computação código 0221 da grade curricular obrigatória do curso de Ciências da Computação disponível no site 
+Esse diretório contêm programas em `c` feitos para a disciplina de Introdução a Ciência da Computação código 0221 da grade curricular obrigatória do curso de Ciências da Computação disponível no [site](https://uspdigital.usp.br/jupiterweb/) da usp 
 
 ## Sobre os projetos:
 
@@ -55,3 +55,63 @@ $ gcc -o nomeExecutavel nomePrograma.c
 Os programas não possuem dicas visuais explícitas do que deve ser inserido devido ao fato de termos que submeter
 esses códigos à um software adotado pela USP chamado [run.codes](http://www.runc.codes.com) e a saída esperada deve ser totalmente padronizada, porém todos
 os códigos estão bem comentados sobre o que está sendo feito
+ 
+ 
+ 
+ # Introduction to Computer Science I
+This directory contains programs in `c` made for Introduction to Computer Science subject, code 0221 of the curriculum of the Computer Science course available on the [website] (https://uspdigital.usp.br/jupiterweb/) of usp
+
+## About the projects:
+
+The programs developed in this discipline were:
+
+**1. Tic-Tac-Toe ** <p>
+A tic-tac-toe game with X and O using matrices
+
+**2. Bar Plot ** <p>
+A program that receives data and stores its items showing them in the form of a '#' bar graph (hash-tags)
+
+** 3. Binary to Decimal ** <p>
+This program converts binary numbers of up to 30 characters to decimal
+
+** 4. Cesar cipher ** <p>
+Given a phrase and a key, this program encrypts and decrypts messages using the Cesar Cipher method
+
+** 5. Determinant ** <p>
+This program calculates the determinant of matrices 1x1, 2x2 and 3x3.
+
+** 6. Library ** <p>
+Simulates a simple book rental and return system given a
+previous list of a bibliographic collection of N books, with a maximum loan limit
+up to 10 books per user
+
+** 7. Replace Word ** <p>
+Given a word, a phrase and a second word, a search for the phrase will be done and then,
+all occurrences of the first word in the sentence will be
+exchanged for the second
+
+** 8. Sort records ** <p>
+This program will receive a list of records containing a name and number (name of films and their respective release dates), and can be made
+an organization in alphabetical order of occurrences or numerical order
+
+
+## Running the programs:
+
+1. To run the files in c it is necessary to use a GNU Linux compiler like gcc: <p>
+``
+ $ sudo apt update
+ $ sudo apt install gcc
+``
+2. Then it is necessary to compile the file found in the folders of each program: <p>
+If you want to run the existing file <p>
+``
+$ ./ExecutableName
+``
+Or compile into a new <p> file
+``
+$ gcc -the ExecutableName ProgramName.c
+``
+## Comments:
+The programs do not have explicit visual cues as to what should be inserted due to the fact that we have to submit
+these codes to a software adopted by USP called [run.codes] (http://www.runc.codes.com) and the expected output should be fully standardized, but all
+the codes are well commented on what is being done
