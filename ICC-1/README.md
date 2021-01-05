@@ -59,7 +59,7 @@ os códigos estão bem comentados sobre o que está sendo feito.
  
  
  # Introduction to Computer Science I
-This directory contains programs in `c` made for Introduction to Computer Science subject, code 0221 of the curriculum of the Computer Science course available on the [website] (https://uspdigital.usp.br/jupiterweb/) of USP.
+This directory contains programs in `c` made for Introduction to Computer Science subject, code 0221 of the curriculum of the Computer Science course available on the [website](https://uspdigital.usp.br/jupiterweb/) of USP.
 
 ## About the projects:
 
