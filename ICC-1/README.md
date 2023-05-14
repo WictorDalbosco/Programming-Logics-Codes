@@ -6,32 +6,32 @@ This directory contains programs in `c` made for Introduction to Computer Scienc
 
 The programs developed in this discipline were:
 
-**1. Tic-Tac-Toe**<p>
+**1. [Tic-Tac-Toe](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/Jogo%20Da%20Velha)**<p>
 A tic-tac-toe game with X and O using matrices;
 
-**2. Bar Plot**<p>
+**2. [Bar Plot](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/BarPlot)**<p>
 A program that receives data and stores its items showing them in the form of a '#' bar graph (hash-tags);
 
-**3. Binary to Decimal**<p>
+**3. [Binary to Decimal](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/Bin%C3%A1rio%20Para%20Decimal)**<p>
 This program converts binary numbers of up to 30 characters to decimal;
 
-**4. Cesar cipher**<p>
+**4. [Cesar cipher](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/Cifra%20de%20Cesar)**<p>
 Given a phrase and a key, this program encrypts and decrypts messages using the Cesar Cipher method;
 
-**5. Determinant**<p>
+**5. [Determinant](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/Determinante)**<p>
 This program calculates the determinant of matrices 1x1, 2x2 and 3x3;
 
-**6. Library**<p>
+**6. [Library](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/Biblioteca)**<p>
 Simulates a simple book rental and return system given a
 previous list of a bibliographic collection of N books, with a maximum loan limit;
 up to 10 books per user
 
-**7. Replace Word**<p>
+**7. [Replace Word](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/Substituir%20Palavra)**<p>
 Given a word, a phrase and a second word, a search for the phrase will be done and then,
 all occurrences of the first word in the sentence will be
 exchanged for the second;
 
-**8. Sort records**<p>
+**8. [Sort records](https://github.com/WictorDalbosco/Programming-Logics-Codes/tree/master/ICC-1/Ordenar%20Registros)**<p>
 This program will receive a list of records containing a name and number (name of films and their respective release dates), and can be made
 an organization in alphabetical order of occurrences or numerical order.
 
